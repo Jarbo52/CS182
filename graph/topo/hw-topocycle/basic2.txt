@@ -1,0 +1,12 @@
+4
+apple
+pear
+orange
+lemon
+
+apple pear
+pear lemon
+orange lemon
+apple lemon
+orange pear
+pear apple
