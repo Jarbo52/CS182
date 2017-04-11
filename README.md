@@ -35,3 +35,7 @@
    * Implementation of a single method to find the transitive closure of a graph
    * Edge is 0 if path exists, no edge otherwise
    * X/80
+9. Minimum Spanning Tree
+   * Implementation of creating a minimum spanning tree given a graph
+   * Uses a priority queue which was also coded
+   * X/100
