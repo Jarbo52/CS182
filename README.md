@@ -30,11 +30,11 @@
    * Known Issues:
       * Calling remkey seg-faults
          * Method was extra credit and not done
-   * X/100
+   * 100/100
 8. Transitive Closure
    * Implementation of a single method to find the transitive closure of a graph
    * Edge is 0 if path exists, no edge otherwise
-   * X/80
+   * 80/80
 9. Minimum Spanning Tree
    * Implementation of creating a minimum spanning tree given a graph
    * Uses a priority queue which was also coded
