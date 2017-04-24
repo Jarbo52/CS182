@@ -1,4 +1,5 @@
 # CS182
+#### Stevens Institute of Technology
 ### Taught by Professor [David Naumann](https://www.cs.stevens.edu/~naumann/)
 
 ## Assignments
@@ -39,3 +40,6 @@
    * Implementation of creating a minimum spanning tree given a graph
    * Uses a priority queue which was also coded
    * X/100
+10. Dijkstra's Algorithm
+    * Implementation of [Dijkstra's Shortest Path Algorithm](https://en.wikipedia.org/wiki/Dijkstra's_algorithm)
+    * X/80
